@@ -1,5 +1,7 @@
 #!/bin/bash
 #Genereaza fisiere random
+#GIT pls commit :)
+
 myPath=/home/gabi/Scripts/dump
 
 for (( count=0; count<=9; count++ ))
