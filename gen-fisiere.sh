@@ -1,6 +1,6 @@
 #!/bin/bash
 #Genereaza fisiere random
-#GIT pls commit :)
+#Git pls commit :)
 
 myPath=/home/gabi/Scripts/dump
 
